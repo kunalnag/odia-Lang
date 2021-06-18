@@ -1,3 +1,4 @@
+# pip install odia
 import odia
 
 # print(f'vowels: {odia.vowels}')
